@@ -1,0 +1,12 @@
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\bin\Debug\Project 10 Repeated number.exe.config
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\bin\Debug\Project 10 Repeated number.exe
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\bin\Debug\Project 10 Repeated number.pdb
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project 10 Repeated number.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project_10_Repeated_number.Form1.resources
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project_10_Repeated_number.Properties.Resources.resources
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project 10 Repeated number.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project 10 Repeated number.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project 10 Repeated number.exe
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project 10 Repeated number.pdb
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\bin\Debug\Guna.UI2.dll
+C:\Users\TOPTECH\source\C#\Project 10 Repeated number\obj\Debug\Project .5BE7F339.Up2Date
